@@ -1,6 +1,6 @@
 
 # area-puppeteer
-基于 puppeteer 的中国行政区域抓取爬虫
+基于 puppeteer 的中国行政区域抓取爬虫（配合iview-area组件使用）
 
 ## 数据来源（地址中的时间可替换为最新时间以更新数据，最新时间的网址要先进行校验是否存在）
 * 国家统计局：[统计用区划代码和城乡划分代码](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/index.html)
